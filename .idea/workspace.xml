@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3894188-e9e4-4e51-9fb9-01648bc494aa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eZ/Publish/Core/MVC/Symfony/Templating/Twig/Extension/FileSizeExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eZ/Publish/Core/MVC/Symfony/Templating/Tests/Twig/Extension/FileSizeExtensionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eZ/Publish/Core/MVC/Symfony/Templating/Tests/Twig/Extension/_fixtures/functions/ez_file_size.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ezpublish-kernel.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eZ/Publish/Core/MVC/Symfony/Templating/Tests/Twig/Extension/ContentExtensionTest.php" afterPath="$PROJECT_DIR$/eZ/Publish/Core/MVC/Symfony/Templating/Tests/Twig/Extension/ContentExtensionTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eZ/Bundle/EzPublishCoreBundle/Resources/views/content_fields.html.twig" afterPath="$PROJECT_DIR$/eZ/Bundle/EzPublishCoreBundle/Resources/views/content_fields.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eZ/Bundle/EzPublishCoreBundle/Resources/config/templating.yml" afterPath="$PROJECT_DIR$/eZ/Bundle/EzPublishCoreBundle/Resources/config/templating.yml" />
@@ -597,7 +608,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-30" y="67" width="1362" height="740" extended-state="0" />
+    <frame x="-30" y="67" width="1362" height="740" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
