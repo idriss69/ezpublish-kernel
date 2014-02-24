@@ -22,7 +22,7 @@ if ( !( $settings = include ( __DIR__ . '/config.php' ) ) )
 $rootDir = __DIR__;
 if ( ( $vendorPathPos = strrpos( $rootDir, '/vendor/ezsystems/ezpublish' ) ) !== false )
     $rootDir = substr( $rootDir, 0, $vendorPathPos );
-require_once $rootDir . "../../vendor/autoload.php";
+require_once $rootDir . "/../../vendor/autoload.php";
 
 
 // Bootstrap eZ Publish legacy kernel if configured

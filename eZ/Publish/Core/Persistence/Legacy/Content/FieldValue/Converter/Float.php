@@ -106,7 +106,6 @@ class Float implements Converter
             }
         }
     }
-
     /**
      * Returns the name of the index column in the attribute table
      *
